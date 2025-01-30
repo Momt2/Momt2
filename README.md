@@ -1,4 +1,1 @@
-- 👋 Hi, I’m Clqx
-- 👀 I’m interested in learning C#
-- 🌱 I’m currently learning java and lua
-- 📫 How to reach me Discord
+
